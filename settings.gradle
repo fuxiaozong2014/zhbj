@@ -1,0 +1,3 @@
+include ':app', ':eventdispatchdemo', ':tabpagerindicatordemo'
+include ':library_slindingmenu'
+include ':library_viewpagerindicator'
